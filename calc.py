@@ -1,1 +1,1 @@
-this is my first script
+hello all...this is my first script
